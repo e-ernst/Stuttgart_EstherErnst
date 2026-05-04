@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Sagenschatz des Frankenlandes</title>
+        <title type="sub">Theil 1: Die Sagen des Rhöngebirges und des Grabfeldes</title>
+        <respStmt xml:id="textsource-1" corresp="#availability-textsource-1">
+          <orgName>Thüringer Universitäts- und Landesbibliothek Jena (ThULB)</orgName>
+          <resp>
+            <note type="remarkResponsibility">Bereitstellung der Texttranskription.</note>
+            <note type="remarkRevisionDTA">Bitte beachten Sie, dass die aktuelle Transkription (und Textauszeichnung) mittlerweile nicht mehr dem Stand zum Zeitpunkt der Übernahme des Werkes in das DTA entsprechen muss.</note>
+            <ref target="https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00024060"/>
+            <date type="importDTA">2026-05-04T12:29:06Z</date>
+          </resp>
+        </respStmt>
+        <respStmt>
+          <orgName ref="https://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe</note>
+            <ref target="https://www.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt><edition>Vollständige digitalisierte Ausgabe.</edition></editionStmt>
+      <extent>
+        <measure type="images"/>
+        <measure type="tokens"/>
+        <measure type="types"/>
+        <measure type="characters"/>
+      </extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2026-05-04T12:29:06Z</date>
+        <availability xml:id="availability-textsource-1" corresp="#textsource-1">
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+            <p>CC BY-NC-SA 4.0</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="M">Bechstein, Ludwig (Hrsg.): Der Sagenschatz des Frankenlandes. Würzburg, 1842</bibl>
+        <biblFull>
+          <titleStmt>
+          <title level="m" type="main">Der Sagenschatz des Frankenlandes</title>
+          <title level="m" type="sub">Theil 1: Die Sagen des Rhöngebirges und des Grabfeldes</title>
+            <editor>
+              <persName ref="http://d-nb.info/gnd/118654292">
+                <surname>Bechstein</surname>
+                <forename>Ludwig</forename>
+              </persName>
+            </editor>
+          </titleStmt>
+          <editionStmt>
+            <edition n="1"/>
+          </editionStmt>
+          <publicationStmt>
+            <publisher/>
+              <pubPlace>Würzburg</pubPlace>
+            <date type="publication">1842</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+            Bogensignaturen: keine Angabe;
+            Druckfehler: keine Angabe;
+            fremdsprachliches Material: keine Angabe;
+            Geminations-/Abkürzungsstriche: keine Angabe;
+            Hervorhebungen (Antiqua, Sperrschrift, Kursive etc.): keine Angabe;
+            i/j in Fraktur: keine Angabe;
+            I/J in Fraktur: keine Angabe;
+            Kolumnentitel: keine Angabe;
+            Kustoden: keine Angabe;
+            langes s (ſ): keine Angabe;
+            Normalisierungen: keine Angabe;
+            rundes r (&amp;#xa75b;): keine Angabe;
+            Seitenumbrüche markiert: keine Angabe;
+            Silbentrennung: keine Angabe;
+            u/v bzw. U/V: keine Angabe;
+            Vokale mit übergest. e: keine Angabe;
+            Vollständigkeit: keine Angabe;
+            Zeichensetzung: keine Angabe;
+            Zeilenumbrüche markiert: keine Angabe;
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+<text>
+<body>
+<p>
+<lb/>wahrnahm, indem sie während derselben ohnweit der
+<lb/>Stelle, wo dieselbe verübt ward, noch im Gebet wachte.
+<lb/>Nachmals besuchte sie den Ort oft im Geheim, weinte
+<lb/>und betete dort, <persName ref="https://explore.gnd.network/gnd/119108178">Gailana</persName> aber, welcher das erwachte Ge¬
+<lb/>wissen keine Ruhe gönnte, ließ die traurige Stätte in
+<lb/>einen Roßstall verwandeln. Und dieses war derselbe Ort,
+<lb/>wo noch heute unter dem Collegiat Stift Neumünster zu
+<lb/><placeName ref="https://explore.gnd.network/gnd/4067037-5">Würzburg</placeName> in der Krypte die Grabstätte der Märtyrer
+<lb/>gezeigt wird.
+<lb/>Als Herzog Gozbert <note type="commentary">auch Gosbert/Gosbertus/Gozbertus, Ehemann der Herzogin Gailana,
+war ein ostfränkischer Herzog im Fränkischen Reich, regierte in Würzburg und wurde einer der ersten Christen der Region.</note>
+von seiner Fahrt zurückkehrte,
+<lb/>war sein erstes Sehnen und Verlangen nach Kilian und
+<lb/>seinen Gefährten, aber Niemand wollte von ihnen etwas
+<lb/>wissen, am wenigsten Gailana. Da geschah es aber,
+<lb/>daß einer der Mörder unsinnig wurde, und sich mit
+<lb/>lautem Geschrei dazu bekannte, das Blut der Priester
+<lb/>vergossen zu haben. Er tobte und wüthete über alle
+<lb/>Maaßen, fiel sein eignes Fleisch an, und gab den Geist
+<lb/>auf, bei seinem Bekenntniß bleibend. Der zweite Mörder
+<lb/>wurde bald darauf ebenfalls rasend, und erdolchte sich.
+<lb/>Und Gailana selbst verfiel in tobenden Wahnsinn, und
+<lb/>schrie es unter fürchterlichem Geheul aus, daß sie von
+<lb/>Kilian, Kolonat und Totnan ob ihrer Mordanstiftung
+<lb/>unsäglich gepeinigt werde. Unter entsetzlichen Qualen
+<lb/>floh ihre Seele.
+<lb/>Danach geschah es abermals, daß viele Franken
+<lb/>wieder in ihre Heidengräuel zurückfielen, und das Land
+<lb/>zumeist heidnisch blieb, bis Gott den frommen Winfried
+<lb/>sandte, welcher im Geleit seiner Gefährten und Gefahr¬
+<lb/>tinnen dem Frankenlande ein zweiter, dem Thüringer-
+<lb/>lande aber der erste Apostel und Glaubensherold ward.
+</p>
+</body>
+</text>
+</TEI>
