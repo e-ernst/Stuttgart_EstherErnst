@@ -86,7 +86,7 @@
             Kustoden: keine Angabe;
             langes s (ſ): keine Angabe;
             Normalisierungen: keine Angabe;
-            rundes r: keine Angabe;
+            rundes r (&amp;#xa75b;): keine Angabe;
             Seitenumbrüche markiert: keine Angabe;
             Silbentrennung: keine Angabe;
             u/v bzw. U/V: keine Angabe;
@@ -105,7 +105,7 @@
 <text>
 <body>
 <p>
-<lb/>Der <persName ref="https://explore.gnd.network/gnd/11856207X?term=heiliger%20kilian&rows=25&pos=1">heilige Kilian</persName>, des Frankenlandes
+<lb/>Der <persName ref="https://explore.gnd.network/gnd/11856207X">heilige Kilian</persName>, des Frankenlandes
 <lb/>Apostel.
 <lb/>Das Licht des Christenglaubens war wieder erloschen,
 <lb/>als sein letzter Glanz mit den Anverwandten der from-
