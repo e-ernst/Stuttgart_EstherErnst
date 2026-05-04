@@ -105,13 +105,14 @@
 <text>
 <body>
 <p>
-<lb/>Der heilige Kilian, des Frankenlandes
+<lb/>Der <persName ref="https://explore.gnd.network/gnd/11856207X?term=heiliger%20kilian&rows=25&pos=1">heilige Kilian</persName>, des Frankenlandes
 <lb/>Apostel.
 <lb/>Das Licht des Christenglaubens war wieder erloschen,
 <lb/>als sein letzter Glanz mit den Anverwandten der from-
 <lb/>men Bilhildis zu Höchheim sich verloren hatte; die Ober-
 <lb/>häupter des Volkes hielten sich zu dem Heidenkult des
-<lb/>Thüringischen Herrscherstammes, bis der Höchste dem
+<lb/>Thüringischen Herrscherstammes <note type="commentary">Der Heidenkult des thüringischen Herrscherstammes war stark durch germanische Traditionen geprägt,
+bevor eine zunehmende, aber teils oberflächliche Christianisierung einsetzte</note>, bis der Höchste dem
 <lb/>Lande neue Lehrer und Apostel erweckte.
 <lb/>Zu jenen Zeiten war in Schottland, Irland und
 <lb/>England ein rühmlicher Eifer rege, die Heiden zu
@@ -121,9 +122,9 @@
 <lb/>Missionare den Christenglauben zu den Heiden aller
 <lb/>Lande zu tragen bemüht waren. So fuhr denn auch
 <lb/>ein als Regionar geweihter Bischof, Namens Killena
-<lb/>(Kilian) mit noch eilf andern Gefährten im Jahr 685
+<lb/>(Kilian) mit noch eilf andern Gefährten im Jahr <date when="685">685</date>
 <lb/>auf das Festland herüber, um den deutschen Heiden das
-<lb/>Evangelium zu predigen, zu welchem Amte sie in Rom
+<lb/>Evangelium zu predigen, zu welchem Amte sie in <placeName ref="https://explore.gnd.network/gnd/040504719">Rom</placeName>
 <lb/>Auftrag und Bestätigung einholten. Nachdem die Be-
 <lb/>kehrer sich in verschiedene Regionen vertheilt, blieben bei
 <lb/>Kilian der Priester Kolonat und der Diacon Totnan
